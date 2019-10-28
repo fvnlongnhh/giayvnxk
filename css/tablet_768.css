@@ -1,0 +1,524 @@
+@media screen and (max-width:768px) {
+	  #header {
+        height: 65px;
+		/*background-color:#000; */
+		
+    }
+	.head-left
+	{ width:100%;
+	text-align:center;
+	}
+		.div-cart{
+    cursor: pointer;
+	float:left;
+	text-align:center;
+	display: inline-block; 
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+	
+    #toolbox {
+        width: 50%;
+		z-index:9999px;
+    }
+    #logo{
+        margin-left: auto;
+		margin-right:auto;
+		 text-align:center;
+    }
+    .banneritem img {
+        height: 75px;
+    }
+    .bs-item {
+        width: 31.3%;}
+    .position-shop {
+        margin-left: 15%;
+    }
+    .shop-item {
+        width: 34%;}
+    .custom-footer .shop-item {
+        width: 31.3%;
+        overflow: hidden;
+    }
+    .product-neighbours{
+        display: none;
+    }
+    .p-price .giamgia{
+        /*display: none;*/
+    }
+    .sidebar{
+        clear: both;
+        width: 100%;
+    }
+    .component-product{
+        width: 100%;
+    }
+    .sidebar .moduletable{
+        clear: both;
+        float: left;
+        width: 98%;
+    }
+    .left-product{
+        width: 40%;
+        float: left;
+        margin: 20px 5%;
+    }
+    .product-description{
+        width: 98%;
+    }
+    .label{
+        display: inline-block;margin-bottom: 5px;
+    }
+    .category_description > ul > li {
+        width: 15%;
+    }
+    div.product.vm-col{
+        width: 47%;
+    }
+    .phan_trangvadesign {
+        width: 100%;
+        margin-left: -10px;
+        margin-bottom: 40px;
+    }
+    /*tin tuc*/
+    .main-news-w {
+        width: 98%;
+        overflow: hidden;
+        /*border: 1px solid red;*/
+    }
+    .col-470-slider .style-slider2{
+        height: 497px;
+    }
+    .col-470-slider .style-slider2 .jssora05l{top: 190px; left: 8px;}
+    .col-470-slider .style-slider2 .jssora05r{top: 190px; right: 8px}
+    /*tin tuc*/
+    .moduletable-display{
+        width: 300px !important;
+    }
+    .product-cate-items div.product.vm-col{
+        height: 465px;
+    }
+    .product-cate-items .vm-details-button{
+        padding-left: 30px;
+    }
+    
+    
+#topBanner { display:none;} 
+
+.tab-index {
+   
+    font-size: 12px;
+}
+  
+  .modmailleft
+{
+	width:100%;
+	height:auto;
+	 margin-bottom:2%;
+	
+	
+}
+
+
+.modmailcenter
+{
+	width:100%;
+	height:auto;
+	 margin-bottom:2%;
+	
+}
+
+.modmailright
+{
+	width:100%;
+	height:auto;
+	 margin-bottom:2%;
+
+	
+}
+
+header .top-head{padding:0}
+header .top-head span{margin-right:5px;font-size:13px;}
+
+.about-index .ex p {
+  margin-bottom: 15px;
+   float:left;
+  width:49%;
+}
+
+#sub-blog-detail p , .author-block
+{
+	display:none;
+	
+}
+
+#sub-blog-detail , #sub-blog-item
+{
+	    min-height: 70px;
+	
+}
+
+#sub-blog-image ,#sub-blog-item
+{
+	height:80px;
+}
+.headingviet , .headingviet a
+{
+	 font-size: 14px;
+}
+.overlay
+{
+	width:55%;
+	}
+	
+	
+	
+.canhanleft
+{
+	width:97%;
+}
+.canhanright
+{
+	width:97%;	
+}
+.tienich
+{
+	width:99%;
+	float:left;
+	padding-top:30px;
+	padding-bottom:20px;
+	   
+}
+.mottienich
+{
+	height:200px;
+}
+
+	.meta-info
+	{
+		font-size:14PX;}
+
+.break-canhanviet ,.break-chucnangviet{ float:left; height:auto;}
+.chucnangwebdep
+{
+	width:48%;
+
+}
+
+
+.modal_price_ct .modal_l{ display:none;}
+
+
+}
+
+@media screen and (max-width:730px) {
+    #header {
+        height: 65px;
+		/*background-color:#000; */
+		
+    }
+    nav{
+        margin-top: -3px;
+    }
+}
+
+@media screen and (max-width:640px) {
+    
+	
+	.banner-add{
+	width: 100%;
+	
+}
+.banner-add > img{
+    width: 100%;
+	min-height:100px;
+    height:auto;
+}
+	
+	
+	
+    #logo a:first-child {
+        /*zoom: 0.6;*/
+    }
+    .head-left{
+        width: 100%;
+        height: 65px;
+		text-align:center;
+		
+    }
+    #header {
+        height: 65px;
+		text-align:center;
+        /*overflow: hidden;*/
+    }
+    /*#logo a img{*/
+        /*width: 70%;*/
+    /*}*/
+
+    .modhome .moduletable {
+        width: 98%;
+        height: auto;
+        min-height: 150px;
+    }
+
+    #logo {
+        margin-left: auto;
+		 margin-right:auto;
+    }
+
+    .banneritem {
+        width: 31.3%;
+        height: 75px;
+    }
+
+    .bs-item {
+        width: 48%;
+        min-height: 390px;
+    }
+
+    .custom-footer .shop-item {
+        width: 48%;height:auto;
+    }
+    .shop-item {
+        width: 44%;
+    }
+    .position-shop {
+        margin-left: 2%;
+    }
+    .category_description > ul > li{
+        width: 22%;
+    }
+    .pagination ul li, .vm-pagination ul li{
+        margin-bottom: 30px;
+    }
+    .component-contact{
+        width: 100%;
+    }
+    .cart{
+        display: none !important;
+    }
+    .product-cate-items div.product.vm-col{
+        height: 420px;
+    }
+
+
+.browse-location-item {
+    width: 47%;
+ 
+
+}
+
+.col-lg-6 {
+    width: 100%;
+}
+
+#sub-blog-detail , #sub-blog-item
+{
+	    min-height: 120px;
+	
+}
+
+#sub-blog-image ,#sub-blog-item
+{
+	height:120px;
+}
+
+
+.tienich
+{
+	width:100%;
+	 height:auto;
+
+}
+
+.overlay
+{
+	width:56%; 
+}
+
+.mottienich
+{
+	height:170PX;
+	 margin-bottom:20PX;
+
+}
+
+
+
+@media screen and (max-width:568px) {
+    #logo a img{
+        width: 85%;
+		text-align:center;
+
+		
+    }
+    #logo a:first-child{
+        width: auto;
+    }
+  
+    .head-left {
+        /*width: 80%;*/
+        height: auto;
+        /*height: 140px;*/
+    }
+    .product-neighbours{display: none;}
+    .h1-product{clear: both;padding-top: 10px;}
+    .vm-product-container .vm-product-media-container{
+        clear: both;float: none;width: 80%;margin: auto;
+    }
+    .vm-product-details-container{
+        width: 98%;float: none;
+    }
+    .left-product{
+        width: 90%;float: none;clear: both;
+    }
+    .product-description{
+        width: 96%;
+        margin: 0 auto;
+    }
+    .style-slider2{width: 275px;height: 367px;}
+    .u-slides{width: 275px; height: 275px;}
+    .breadcrumb > li{
+        margin-bottom: 10px;
+    }
+    /*.giamgia{*/
+        /*display: none;*/
+    /*}*/
+    div.product.vm-col {
+        /*border: 1px solid red;*/
+        width: 80%;
+        float: none;
+        margin: 5px auto 25px auto;
+        height: auto;
+        padding-bottom: 25px;
+    }
+    .product-cate-items div.product.vm-col{
+        height: auto;
+    }
+    /*tin tuc*/
+    .main-news-w{
+        width: 98%;
+        overflow: hidden;
+        /*border: 1px solid red;*/
+    }
+    .main-news-c{
+        width: 100%;
+    }
+    .col-170{
+        width: 100%;
+    }
+    .col-170-item > a{
+        height: auto;
+    }
+    .col-470{
+        margin-left: 0;
+        width: 100%;
+    }
+    .col-170-span,.col-170-spanviet
+	{
+        padding: 11px 10px;
+    }
+
+
+    .col-270{
+        width: 100%;
+        clear: both;
+        overflow: hidden;
+        margin-left: 0px;
+
+    }
+    .c1r{
+        width: 100%;
+    }
+    .col-270-item{
+        width: 45%;
+        height: 375px;
+        float: left;
+        margin-right: 5%;
+    }
+    .span-feature{
+        clear: both;
+    }
+    .col-270-item > p{
+        top: 270px;
+    }
+    .col-270-item-2 a{
+        width: 100%;
+        height: auto;
+    }
+    .col-470-slider{
+        height: 470px;
+        margin-bottom: 10px;
+    }
+    .col-470-item >a{
+        width: 170px;
+        height: 170px;
+    }
+    .col-470-item h4{
+        max-height: 58px;
+    }
+    .col-470-item > p{
+        max-height: 96px;
+    }
+    .col-470-item{
+        min-height: 183px;
+    }
+    .col-470-item-2 > p{
+        height: 60px;
+        overflow: hidden;
+    }
+    .col-470-slider{
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+    }
+    .col-470-slider .style-slider2{
+        width: 100%;height: 557px;
+    }
+    .col-470-slider .style-slider2 .jssort01 {
+        width: 100%;
+    }
+    .col-470-slider .style-slider2 .u-slides{width: 100%; height: 100%;}
+    .col-470-slider .style-slider2 .jssora05l{top: 250px; left: 8px;}
+    .col-470-slider .style-slider2 .jssora05r{top: 250px; right: 8px}
+    .w-gallery{
+        width: 100%;
+    }
+    .col-170-list{
+        width: 100%;
+    }
+    .c1r .col-170-list{
+        width: 105%;
+    }
+    .c1r .col-170-item {
+        width: 45%;
+        float: left;
+        margin-right: 5%;
+    }
+    .col-270-item-2{
+        width: 270px;overflow: hidden;
+        float: left;
+        margin-right: 7px;
+        /*height: auto;*/
+    }
+    .col-170-display
+	{
+        display: none;
+    }
+    /*tin tuc*/
+	
+	
+
+.logofooter
+{ width:70%;}
+
+.mottienich
+{
+	height:140PX;
+	 margin-bottom:20PX;
+
+}
+
+}

@@ -1,0 +1,445 @@
+@media screen and (max-width:480px) {
+	.div-cart{
+    cursor: pointer;
+	float:left;
+}
+
+#navtoolbox ul li a, #navtoolbox ul li ul li a
+{
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 8px 15px 8px 15px; /*border-right: 1px solid #999999;*/
+	font-family:"Oswald", sans-serif;
+	font-weight:300;
+	text-transform: capitalize;
+}
+
+    #logo a:first-child {
+        /*zoom: 0.3;*/
+    }
+	
+	  #toolbox {
+     
+		z-index:9999px;
+    }
+	
+    .banneritem {
+        width: 48%;
+    }
+    .banneritem img {
+        height: auto;
+        /*height: 95px;*/
+    }
+    .bs-item {
+        width: 98%;
+        min-height: 375px;
+    }
+    .modnew .bs-items .bs-item .bs-image img {
+        max-height: 302px;
+    }
+    .custom-footer .shop-item {
+        width: 98%;min-height: 60px;}
+    .shop-item {
+        width: 98%;
+    }
+    .category_description > ul > li{
+        width: 30%;
+    }
+	
+		.notice{font-size:9px; height:60px;}
+    .head-left{
+        height: 70px;
+	
+	
+    }
+    #header{
+        height: 90px;
+		
+    }
+    #logo a img{
+        width: 90%;
+		clear:both;
+    }
+    /*tin tuc*/
+    .col-270-item{
+        width: 270px;
+    }
+    .c1r .col-170-item {
+        width: 100%;
+        float: none;
+        margin-right: 0;
+    }
+    /*tin tuc*/
+    nav .menu{
+        right: 5%;
+        width: 90%;
+    }
+    
+    
+    
+    
+    
+    /*MENU MEGA */
+
+
+    /*override the original settings*/
+	#ddmenu
+{
+	text-align:center;
+	  /* background-color:#000;*/
+	padding-top:10PX;
+	padding-bottom:10PX;
+	margin-top:30px;
+
+
+}
+	
+    #ddmenu ul {
+        width: 100%; 
+        display: none;
+        border-radius:0;
+
+	
+		
+    }
+	
+    #ddmenu li {
+        position:relative;
+        display:block;
+        font-size:13px;
+        text-align:left;
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+        border-radius:0;
+		
+    }
+
+    #ddmenu .full-width {
+       position:relative;
+	   
+    }
+    
+    #ddmenu .dropdown {
+        position:relative;
+        *top:auto;/*for IE7*/
+        border:none;
+        border-radius:0;
+        box-shadow:none;
+       
+    }
+    
+    #ddmenu .offset300 {
+        left:0;
+    }
+    
+    #ddmenu .full-width .dropdown{
+        width:auto;
+    }
+    
+    #ddmenu .dd-inner
+    {
+        margin:0;
+        background:none;
+        text-align:left;
+		
+    }
+    
+    /*turn each column to list vertically instead of horizontally */
+    #ddmenu .column {
+        width:auto;
+        padding:0;
+        border:none;
+        display:block;
+		
+    }
+
+    /*move the arrow icon to right*/
+    #ddmenu .caret {
+        position:absolute;
+        left:auto;
+        right:14px;
+        top: 19px;
+        border-width:5px;
+		
+    }
+
+
+    /* All the following are for the .menu-icon (pure CSS) */
+    #ddmenu .menu-icon {
+        font-size:16px;/*icon size*/
+		display: block;
+        position: relative;
+		width: 40px;
+		height:25px;
+        text-align:center;
+		cursor: pointer;
+		-moz-user-select:none;		
+        -webkit-user-select: none;
+        background-color: #eeeeee;
+        border-radius: 3px;
+
+        margin-bottom:6px;	
+        /*align the icon to the left*/
+        margin-left: auto;
+        margin-right: auto;
+	
+		padding-top:5px;
+		
+		
+		
+		
+		   text-transform:uppercase;
+    	background-color:#ffb500;
+        margin:0px auto 5px auto;
+        display: block;
+        width: 70%;
+        border: 0;
+        border-radius: 5px;
+        color:#fff;
+		
+		
+		
+    }
+
+    #ddmenu .menu-icon::before {
+        content: "";
+        position: absolute;
+        top: 0.25em;
+        left: 4px;
+        width: 1em;
+        height: 0.125em;
+        border-top: 0.375em double #333333;
+        border-bottom: 0.125em solid #333333;
+        box-sizing:content-box;
+
+    }
+
+
+    #ddmenu .menu-icon-active 
+    {
+        background-color: #333333;
+    }
+
+    #ddmenu .menu-icon-active::before {
+      border-color: #eeeeee;
+    }
+	
+	
+    
+    
+#ddmenu .column
+{
+	width:100%;
+}
+    
+    .hinhanh img
+{
+	width:100%;
+	height:auto;
+}
+
+ #ddmenu .over
+{
+    color:#FFFFFF;
+background-color:#fbbd29;
+}
+
+    #vadesignvietpro {
+
+	display:none;	
+}
+
+footer h3 {
+    
+    font-size: 17px;
+  
+}
+ 
+ .phan_trangvadesign {
+  
+    height:auto;
+ 
+}
+
+
+.tab-index{
+	
+    font-size: 12px;
+    clear:both;
+    display:block;
+
+   
+}
+
+.holine {
+   
+    margin-right: 0px;
+    float:left;
+}
+
+.tab-index > span{ clear:both;	width:100%;}
+.phonemes
+{
+position: fixed; bottom: 4px; right: 0px;
+}
+
+.phonemes span
+{
+    float:left; clear:both;
+    z-index:999;
+}
+.phonemes span img
+{
+      width:180px;
+ }
+
+
+
+.wrap-slide-detail-img{width:90%; height:auto;}
+#side-menu{ display:none;}
+header .top-head span{margin-right:0;}
+header .change-language{margin:0;padding:0;border:none}
+.about-index .ex p {
+  margin-bottom: 15px;
+   float:left;
+  width:100%;
+}
+
+.browse-location-item {
+    width: 100%;
+ 
+
+}
+
+.col-lg-6 {
+    width: 100%;
+}
+.mottienich
+{
+	height:120PX;
+	
+
+}
+
+
+
+/* WHAT LOOKING*/
+.break-services{
+	background:url(../images/break.jpg) repeat center;
+	padding:0px 0;
+	height:auto;
+	position:relative;
+	float:left;
+	padding-bottom:20px;
+
+}
+.break-services .break-services-item{text-align:center;z-index:1;color:#fff; width:97%; float:left;}
+
+/* WHAT LOOKING*/
+.break-web{
+	padding:0px 0;
+	height:auto;
+	position:relative;
+	float:left;
+	padding-bottom:20px;
+
+}
+.break-web .break-web-item{text-align:center;z-index:1; width:97%; float:left;}
+.motcanhanleft-right
+{
+	width:74%;
+	float:right;
+ 
+}
+
+.chucnangwebdep
+{
+	width:98%;
+
+}
+
+.break-tinhnang .break-tinhnang-item,.break-tinhnang .break-tinhnang-item1,.break-tinhnang .break-tinhnang-item2,.break-tinhnang .break-tinhnang-item3{height:300px; width:48%;}
+
+
+}
+@media screen and (max-width: 390px)
+{
+    .modnew{
+        margin-left: 0px;
+        width: 98%;
+    }
+    .bs-item {
+        width: 100%;}
+    .modhome .moduletable {
+        width: 100%;}
+    .modnew .bs-items .bs-item .bs-image a img{
+        margin-top: 10px;
+    }
+    div.product.vm-col{
+        width: 98%;
+    }
+    .category_description > ul > li{
+        width: 47%;
+    }
+    .w-image-cate{
+        /*height: 107px;*/
+        /*height: 107px;*/
+    }
+    #logo a img {
+        width: 100%;
+    }
+    .content-tab-index, .tab-index{
+        overflow: hidden;
+
+    }
+    .moduletable-display{
+        width: 98% !important;
+    }
+    nav .menu{
+        right: 1%;
+        width: 98%;
+    }
+
+    #vadesignvietpro {
+
+	display:none;	
+}
+
+}
+@media screen and (max-width: 320px){
+    .modsearch input#mod_virtuemart_search{width: 90%;}
+    .holine{margin-right:-12px;}
+    #logo a:first-child {
+        /*zoom: 0.4;*/
+    }
+    #header {
+        height: 200px;
+    }
+    .banneritem {
+        width: 90%;
+        height: auto;
+    }
+
+    .banneritem{padding: 0 5%;}
+    .banneritem img {
+        height: auto;
+        /*height: 100px;*/
+    }
+    #logo a img{width: 90%;}
+    .head-left{
+        height: 75px;	
+    }
+		.head-left #logo a{ 
+	 margin-left:10%;	
+}
+
+    #vadesignvietpro {
+
+	display:none;	
+}
+
+#side-menu{display:none}
+.float-ck {display:none}
+
+
+}

@@ -1,0 +1,991 @@
+@media screen and (max-width:1200px) {
+    .container{
+        width: 100%;
+    }
+    #banner{
+        width: 100%;
+        overflow: hidden;
+    }
+    .category_description{
+        width: 100%;
+    }
+    .content-tab-index, .tab-index{
+        width: 100%;
+    }
+    .component{
+        width: 100%;
+        box-sizing: border-box;
+    }
+    /*.content-tab .component{*/
+    /*box-sizing: border-box;*/
+    /*}*/
+    .bannergroup{
+        width: 100%;
+    }
+    .bs-items{
+        width: 100%;
+    }
+	
+    .modmailviet{
+        width: 100%;
+    }
+	
+	
+	
+    .moduletable-footer{
+        width: 100%;
+    }
+    .wrap-cart-content{
+        width: 100%;
+    }
+	
+	
+	
+		#ddmenu li
+{
+	
+	font-size:10.5px;
+	display:inline-block;
+    *display:inline;
+	zoom:1; /*for IE6-7*/
+	position:relative;
+	color:#eeeeee;
+	line-height:44px; /*This determines the height of the menu*/
+	vertical-align:middle;
+	transition:background-color 0.2s;
+	outline:none;
+
+ border-right: 1px solid #d0d0d0;
+ margin-top:-1PX;
+
+
+}
+
+
+    .component-product{
+        width: 71%;
+    }
+    
+    #topBanner { display:none;} 
+	
+
+
+}
+@media screen and (max-width:1180px) {
+    #toolbox{
+         margin-top: 10px;
+    }
+.custom-footer .shop-item
+{
+min-height: 255px;
+height:auto;
+}
+
+.custom-footer .shop-item .sacom
+{ width:50%;
+
+}
+
+.break-canhanviet ,.break-chucnangviet
+{
+    float:left;
+    height:auto;
+
+}
+
+
+
+	
+}
+@media screen and (max-width:1024px) {
+  body{width: 100%}
+	
+    #header{height: 65px;}
+    .container{width: 980px !important; margin: auto;}
+    nav a{padding: 15px 14px !important;}
+    #banner {
+        width: 980px;overflow: hidden;}
+    #logo a:first-child{
+        margin-top: 3px;}
+    .head-left{
+        margin-top: 0px;
+		  text-align:center;
+		
+    }
+    #toolbox{
+        /*margin-top: -40px;*/
+    }
+    .bannergroup{width: 1000px;}
+    .banneritem img{height: 100px;}
+    .bs-items{width: 980px;}
+	.modmailviet{ width: 980px; }
+	
+	
+    .moduletable-footer{width: 980px;}
+    .custom-footer .shop-item{height: 130px;}
+    .position-shop {
+        margin-left: 240px;
+    }
+    .modnew .bs-items .bs-item .bs-image img{max-height: 225px;}
+    /*chi tiet san pham*/
+    .vm-product-container .vm-product-media-container{
+        overflow: hidden;
+    }
+    .style-slider2{width: 275px;height: 367px;}
+    .u-slides{width: 275px; height: 275px;}
+    .jssort01 {
+        width: 100%;
+        height: 80px;
+    }
+    .jssort01 .p {
+        width: 80px;
+        height: 80px;
+    }
+    .jssort01 .c {
+        width: 80px;
+        height: 80px;
+    }
+    .jssort01 .pav .c {
+        width: 80px;
+        height: 80px;
+    }
+    .jssort01 .p:hover .c {
+        width: 80px;
+        height: 80px;
+    }
+
+    .jssort01 .p.pdn .c {
+        width: 80px;
+        height: 80px;
+    }
+
+    * html .jssort01 .c, * html .jssort01 .pdn .c, * html .jssort01 .pav .c {
+        /* ie quirks mode adjust */
+        width /**/: 80px;
+        /*width !**!: 160px;*/
+        height /**/: 80px;
+    }
+    .jssora05l{top: 120px; left: 8px;}
+    .jssora05r{top: 120px; right: 8px}
+    .a-image{
+        width: 100%;
+        height: 100%;
+        /*max-height: 100%;*/
+    }
+    /*chi tiet san pham*/
+    .component{
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .category_description{
+        width: 98%;
+        margin: 0px auto;
+    }
+    .category_description > ul > li{
+        /*height: auto;*/
+        height: 165px;
+    }
+    .component-contact{width: 73%;}
+    .phan_trangvadesign {
+        width: 100%;}
+    /*tin tuc*/
+    .main-news-w{
+        width: 980px;
+    }
+    .col-470{
+        margin-left: 5px;
+        width: 375px;
+    }
+    .col-470-chi-tiet-tin{
+        width: 600px;
+        margin-left: 20px;
+    }
+    .col-270{
+        margin-left: 5px;
+        width: 250px;
+        overflow: hidden;
+    }
+    .col-170-span,.col-170-spanviet
+	{
+        padding: 11px 10px;
+    }
+    .col-170{
+        width: 170px;
+    }
+    .col-170-item > a{
+        height: auto;
+    }
+    .col-270-item{
+        width: 250px;
+        height: 375px;
+    }
+    .col-270-item > p{
+        top: 270px;
+    }
+    .col-270-item-2 a{
+        width: 250px;
+        height: auto;
+        /*height: 250px;*/
+    }
+    .col-470-slider{
+        height: 470px;
+        margin-bottom: 10px;
+    }
+    .col-470-item >a{
+        width: 170px;
+        height: 170px;
+    }
+    .col-470-item h4{
+        max-height: 58px;
+    }
+    .col-470-item > p{
+        max-height: 96px;
+    }
+    .col-470-item{
+        min-height: 183px;
+    }
+    .col-470-item-2 > p{
+        height: 75px;
+        overflow: hidden;
+    }
+    .col-470-slider .style-slider2{
+        width: 375px;height: 480px;
+    }
+    .col-470-slider .style-slider2 .jssort01 {
+        width: 375px;
+    }
+    .col-470-slider .style-slider2 .u-slides{width: 375px; height: 375px;}
+    .col-470-slider .style-slider2 .jssora05l{top: 170px; left: 8px;}
+    .col-470-slider .style-slider2 .jssora05r{top: 170px; right: 8px}
+    .col-270-item-2{
+        width: 250px;overflow: hidden;
+    }
+    /*tin tuc*/
+    .wrap-cart-content{
+        width: 100%;
+        overflow-x: scroll;
+        padding: 0 5px;
+        box-sizing: border-box;
+    }
+	
+	
+	 #navtoolbox ul li a, #navtoolbox ul li ul li a 
+	{
+        border: 0;
+        line-height: 12px;
+        margin-right: 0px;
+        background: none;
+          font-size: 17px;
+         padding: 8px 7px 8px 7px; /*border-right: 1px solid #999999;*/
+    }
+	
+	#ddmenu li
+{
+	
+	font-size:11px;
+	display:inline-block;
+    *display:inline;
+	zoom:1; /*for IE6-7*/
+	position:relative;
+	color:#eeeeee;
+	line-height:44px; /*This determines the height of the menu*/
+	vertical-align:middle;
+	transition:background-color 0.2s;
+	outline:none;
+     border-right: 1px solid #d0d0d0;
+     margin-top:-1PX;
+
+
+}
+
+#ddmenu .top-heading   /*kich thuot khoan cách the a con cua san pham*/
+{
+	
+	color:inherit;
+	text-decoration:none;
+	display:inline-block;
+	outline:0;
+	cursor:pointer;
+	margin-top: 0;
+	margin-right: 7px;
+	margin-bottom: 0;
+	margin-left: 7px;
+}
+    .modpartner{
+        overflow: hidden;
+    }
+
+    div.product.vm-col{
+        height: 300px;
+    }
+    .component-product{
+        width: 71%;
+    }
+    .product-cate-items div.product.vm-col{
+        height: 360px;
+    }
+
+   .wrap-slide-detail-img{width:45%;max-height:600px; }
+   
+    .modpro .moduletable
+   {
+	  
+	    height:350px;
+	}
+	
+	
+.break-web{
+
+	height:auto;
+	float:left;
+	padding-bottom:20px;
+
+}
+  
+
+}
+@media screen and (max-width:980px) {
+    .i-con-menu-phone {
+        display: block;
+        background: url(../images/hamburger_50.png) no-repeat 50% ;
+        width: 100%;
+        height: 31px;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+		background-color:#000;
+    }
+	
+	.head-left #logo a{
+    clear: both;
+    float: left;
+    height: auto;
+    text-align:center;
+	 margin-left:25%;
+	
+}
+
+
+#logo a:first-child {
+    /*background: url(../images/logo.png) no-repeat;*/
+	width:100%;
+    /*text-indent: -5000px;*/
+    display: block;
+	 text-align:center;
+}
+
+.custom-footer .shop-item
+{
+	  min-height: 325px;
+	 height:auto;
+	}
+
+.custom-footer .shop-item .sacom
+{ width:50%;
+	
+	}
+
+
+    .node-url {
+        display: block;
+        position: absolute;
+        top: 8px;
+        right: 10px;
+        background: url(../images/arow_menu_down.png) no-repeat;
+        /*background: #dc0019 ;*/
+        width: 17px;
+        height: 10px;
+    }
+
+    #header{height: 65px;}
+    .container{width: 98% !important; margin: auto;}
+    nav a{padding: 15px 14px !important;}
+    #banner {
+        width: 98%;overflow: hidden;}
+    .head-left {
+         clear: both; 
+        float: left;
+        margin: 0 auto;
+        width: 100%;
+		  text-align:center;
+		
+    }
+    nav .container{
+        padding-top: 10px;
+    }
+    #logo a:first-child{margin-top: 3px;}
+    #toolbox{margin-top: 20px;}
+    .bannergroup{width: 98%;}
+    .banneritem img{height: 100px;}
+    .bs-items{width: 98%;margin-left: 1%;}
+	.modmailviet{ width: 98%;margin-left: 1%; }
+	
+
+    .moduletable-footer{width: 98%;}
+    .custom-footer .shop-item{height: 130px;}
+    .position-shop {
+        margin-left: 240px;
+    }
+    .modnew .bs-items .bs-item .bs-image img{max-height: 225px;}
+
+ /*////////////////// toolbox /////////////////////*/
+    #toolbox {
+        width: 50%;
+        margin: auto;
+        min-height: 30px;
+        position: relative;
+        height: 40px;
+        clear: both;
+        float: none;
+	
+    }
+
+    #dropdown_navtoolbox {
+        display: none;
+        width: 100%;
+        height: auto;
+        position: absolute;
+        top: 30px;
+        background: url(../images/menutren.png) repeat;
+        border-bottom: 1px solid #999;
+        border-right: 1px solid #999;
+        z-index: 11;
+        overflow: hidden;
+			
+
+    }
+
+    #navtoolbox{margin-right: 1px;}
+
+    #navtoolbox li ul li {
+        width: 100%;
+        border-right: 0;
+        border-left: 0;
+        border-bottom: 0;
+	
+    }
+
+    #dropdown_navtoolbox > li:first-child{border-left: 1px solid #999999 !important;}
+
+    #dropdown_navtoolbox > li > ul > li > ul {
+        display: none;
+    }
+
+    #dropdown_navtoolbox > li > ul > li > ul > li {
+        background: #02acf1 !important;
+		/*mAU CUA MENU CAP 3 DIEN THOAT VA IPAD*/
+    }
+
+    #dropdown_navtoolbox > li > ul > li {
+        background: #ffb500 !important;
+		/*mAU CUA MENU CAP 2 DIEN THOAT VA IPAD*/
+    }
+
+    #navtoolbox {
+        width: 100%;
+        min-height: 34px;border-radius: 5px;
+		
+    }
+
+    #navtoolbox ul li {
+        position: relative;
+        display: block;
+        text-align: left;
+        width: 100%;
+        cursor: pointer;
+        border-top: 1px solid #999999;
+			background-color:#1375be;
+    }
+
+    #navtoolbox ul li a, #navtoolbox ul li ul li a {
+        border: 0;
+        line-height: 14px;
+        margin-right: 40px;
+        background: none;
+		color:#FFF;
+    }
+
+    #navtoolbox ul li ul li a {
+        padding-top: 10px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        color: #fff;
+    }
+
+    /*#navtoolbox ul li a:hover,#navtoolbox ul li:hover > a{background:#000;color:#FFF}*/
+    #navtoolbox ul li a:hover, #navtoolbox ul li:hover > a {
+        background: none;
+		color:#000;
+    }
+
+    #navtoolbox li ul {
+        position: relative;
+        display: none;
+        background: none;
+        width: 100% !important;
+        border-top: 0;
+        float: none;
+        left: 0;
+    }
+
+    #navtoolbox li:hover ul {
+        clear: both;
+        left: 0;
+    }
+
+    #navtoolbox li ul a {
+        background: none;
+        border: 0;
+        margin-right: 0;
+        height: auto;
+        left: 0;
+		
+    }
+
+    #navtoolbox li li ul {
+        margin: 0px;
+        /*visibility: visible;*/
+    }
+
+    #navtoolbox li li:hover ul {
+    }
+
+    #navtoolbox ul li ul li a {
+        display: block;
+        width: auto;
+        border-bottom: 0;
+    }
+
+    /*////////////////// toolbox /////////////////////*/
+    /*menu 2*/
+    .ul-menu{display: none;}
+    nav .menu li {
+        display: block;
+        margin:0;
+        width:100%;
+        border-right: none;
+    }
+    nav .menu {
+        z-index:99;
+        position:absolute;
+        width: 50%;
+        right: 25%;
+    }
+    nav {
+        box-shadow: none;
+        background:#000;
+        padding-bottom:10px;
+    }
+    nav .navbar-toggle {
+        text-transform:uppercase;
+        background:#dc0019;
+        margin:0px auto 5px auto;
+        display: block;
+        width: 50%;
+        border: 0;
+        border-radius: 5px;
+        padding: 10px;
+        color:#fff;
+    }
+    nav ul li a {
+        background: #b20216;
+        border-bottom: 1px solid #dc0019;
+        display: block;
+        padding: 0px 20px !important;
+    }
+    nav ul li:last-child a, nav ul li:last-child a:hover, nav ul li.active:last-child a {
+        /*border-bottom:none;*/
+    }
+    nav ul li a:hover, nav ul li.active a {
+        /*background: #dc0019;*/
+    }
+    .moduletable_menu {
+        background: #fff;
+        margin-top: 0;
+        border-bottom: none;
+        position:relative;
+    }
+    nav .menu > li:first-child a {
+        /*background: url(../images/icon-home.png) no-repeat center center #b20216;*/
+        text-indent: -50000px;
+        width: 100%;
+        border-bottom: 1px solid #dc0019;
+        height: 44px;
+    }
+    nav .menu li:first-child.active > a, nav .menu li:first-child > a:hover {
+        /*background: url(../images/icon-home-hv.png) no-repeat center center #dc0019;*/
+    }
+    .home{display: none;}
+    .home-hv{display: block;left: 50%;margin-left: -18px;}
+    nav .menu ul{
+        opacity: 1;
+        visibility: visible;display: none;
+        position: relative;
+        margin: 0px;
+        width: 100%;
+        top: 0px;
+
+    }
+    nav .menu ul ul{
+        top: 0;
+        left: 0px;
+        margin: 0px;
+    }
+    .menu .node-url{top: 0px;
+        right: 0px;z-index: 99;width: 45px;height: 100%;
+        background: url(../images/arow_menu_down.png) no-repeat #dc0019;
+        background-position-x:50%;
+        background-position-y:17px;
+    }
+    .xyz{ margin-right: 40px; !important; white-space:normal;}
+    nav .menu:before,
+    nav .menu:after {
+        /*content: "";*/
+        display: block;
+    }
+    .nami{display: block !important;}
+    .c-child{display: none;}
+    nav .menu > li:first-child {
+        /*margin-left: 0px;*/
+        /*padding: 0px !important;*/
+        width: 100%;
+        /*height: 45px;*/
+    }
+    /*menu 2*/
+    #banner{width: 100%;}
+    .position-shop{margin-left: 24%;}
+    /*.container{width: 100%;border:1px solid red;}*/
+    #banner{width: 100%;height: auto;}
+    .mod-content h3{margin-bottom: 10px;}
+    .mod-content{padding: 15px 70px;}
+    /*chi tiet san pham*/
+    .primary{
+        width: 100%;height: auto;
+    }
+    .giamgia{
+        right: 0px;
+    }
+    .a-name{
+        overflow: hidden;
+    }
+    .icons{
+        display: none;
+    }
+    .modnew{
+        overflow: hidden;
+    }
+    footer .moduletable{
+        width: 100%;
+        overflow: hidden;
+    }
+    .primary{
+        overflow: hidden;
+    }
+    .phan_trangvadesign{
+        width: 95%;
+    }
+    div.product.vm-col{
+        width: 30.8%;
+    }
+    .product-cate-items .vm-details-button{
+        padding-left: 5px;
+    }
+    /*chi tiet san pham*/
+    /*tin tuc*/
+    .main-news-w{
+        width: 90%;
+        overflow: hidden;
+        /*border: 1px solid red;*/
+    }
+    .main-news-c{
+        width: 100%;
+    }
+    .col-170{
+        width: 30%;
+    }
+    .col-170-item > a{
+        height: auto;
+    }
+
+
+
+    .col-470{
+        margin-left: 4%;
+        width: 66%;
+    }
+ 
+
+    .col-270{
+        width: 30%;
+        clear: both;
+        overflow: hidden;
+        margin-left: 0px;
+
+    }
+    .c1r{
+        width: 66%;
+    }
+    .col-270-item{
+        width: 100%;
+        height: 375px;
+    }
+    .col-270-item > p{
+        top: 270px;
+    }
+    .col-270-item-2 a{
+        width: 100%;
+        height: auto;
+    }
+    .col-470-slider{
+        height: 470px;
+        margin-bottom: 10px;
+    }
+    .col-470-item >a{
+        width: 170px;
+        height: auto;
+        /*height: 170px;*/
+    }
+    .col-470-item h4{
+        max-height: 58px;
+    }
+    .col-470-item > p{
+        max-height: 96px;
+    }
+    .col-470-item{
+        min-height: 130px;
+    }
+    .col-470-item-2 > p{
+        height: 60px;
+        overflow: hidden;
+    }
+    .col-470-slider{
+        width: 100%;
+        height: auto;
+    }
+    .col-470-slider .style-slider2{
+        width: 100%;height: 582px;
+    }
+    .col-470-slider .style-slider2 .jssort01 {
+        width: 100%;
+    }
+    .col-470-slider .style-slider2 .u-slides{width: 100%; height: 100%;}
+    .col-470-slider .style-slider2 .jssora05l{top: 170px; left: 8px;}
+    .col-470-slider .style-slider2 .jssora05r{top: 170px; right: 8px}
+    .w-gallery{
+        width: 100%;
+    }
+    .col-170-list{
+        width: 100%;
+    }
+    .c1r .col-170-list{
+        width: 105%;
+    }
+    .c1r .col-170-item {
+        width: 45%;
+        float: left;
+        margin-right: 5%;
+    }
+    .col-270-item-2{
+        width: 100%;overflow: hidden;
+    }
+    .col-470 .phan_trangvadesign{
+        width: 98%;
+    }
+    /*tin tuc*/
+	
+	
+	/*MENU MEGA */
+
+
+    /*override the original settings*/
+	#ddmenu
+{
+	text-align:center;
+	 /* background-color:#000;*/
+	padding-top:10PX;
+	padding-bottom:10PX;
+
+}
+	
+    #ddmenu ul {
+        width: 100%; 
+        display: none;
+        border-radius:0;
+
+	
+		
+    }
+	
+    #ddmenu li {
+        position:relative;
+        display:block;
+        font-size:13px;
+        text-align:left;
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+        border-radius:0;
+		
+    }
+
+    #ddmenu .full-width {
+       position:relative;
+	   
+    }
+    
+    #ddmenu .dropdown {
+        position:relative;
+        *top:auto;/*for IE7*/
+        border:none;
+        border-radius:0;
+        box-shadow:none;
+       
+    }
+    
+    #ddmenu .offset300 {
+        left:0;
+    }
+    
+    #ddmenu .full-width .dropdown{
+        width:auto;
+    }
+    
+    #ddmenu .dd-inner
+    {
+        margin:0;
+        background:none;
+        text-align:left;
+		
+    }
+    
+    /*turn each column to list vertically instead of horizontally */
+    #ddmenu .column {
+        width:auto;
+        padding:0;
+        border:none;
+        display:block;
+		
+    }
+
+    /*move the arrow icon to right*/
+    #ddmenu .caret {
+        position:absolute;
+        left:auto;
+        right:14px;
+        top: 19px;
+        border-width:5px;
+		
+    }
+
+
+    /* All the following are for the .menu-icon (pure CSS) */
+    #ddmenu .menu-icon {
+        font-size:16px;/*icon size*/
+		display: block;
+        position: relative;
+		width: 40px;
+		height:25px;
+        text-align:center;
+		cursor: pointer;
+		-moz-user-select:none;		
+        -webkit-user-select: none;
+     
+        border-radius: 3px;
+
+        margin-bottom:6px;	
+        /*align the icon to the left*/
+        margin-left: auto;
+        margin-right: auto;
+		background-color:#F00;
+		padding-top:5px;
+		
+		
+		
+		
+		text-transform:uppercase;
+        background:#ffb500;
+        margin:0px auto 5px auto;
+        display: block;
+        width: 70%;
+        border: 0;
+        border-radius: 5px;
+        color:#fff;
+		
+		
+		
+    }
+
+    #ddmenu .menu-icon::before {
+        content: "";
+        position: absolute;
+        top: 0.25em;
+        left: 4px;
+        width: 1em;
+        height: 0.125em;
+        border-top: 0.375em double #333333;
+        border-bottom: 0.125em solid #333333;
+        box-sizing:content-box;
+
+    }
+
+
+    #ddmenu .menu-icon-active 
+    {
+        background-color: #333333;
+    }
+
+    #ddmenu .menu-icon-active::before {
+      border-color: #eeeeee;
+    }
+	
+	
+    
+    
+#ddmenu .column
+{
+	width:240px;
+}
+    
+    .hinhanh img
+{
+	width:100%;
+	height:auto;
+}
+
+ #ddmenu .over
+{
+    color:#FFFFFF;
+background-color:#fbbd29;
+}
+
+	.custom-footer .shop-item
+{
+min-height: 145px;
+height:auto;
+ 
+}
+
+.custom-footer .shop-item .sacom
+{ width:50%;
+
+}
+	.meta-info
+	{
+		font-size:11PX;}
+		
+.chucnangwebdep
+{
+	width:48%;
+
+}
+	
+}
+@media screen and (max-width:830px) {
+    #header{
+        height: 65px;
+    }
+
+
+#float_content_right img {max-width:300px;}
+
+
+}
